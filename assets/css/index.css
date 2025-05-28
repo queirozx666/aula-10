@@ -1,0 +1,122 @@
+@font-face {
+    font-family: gtav;
+    src: url(../fonts/Pricedown\ Bl.otf);
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI';
+    margin: 20px;
+    background-color: #1e1e22;
+    color: #e0e0e0;
+    border: solid 5px rgba(0, 0, 0, 0.24);
+}
+h1{
+    font-size: 70px;
+    font-family: gtav;
+    text-align: center;
+    color: white;
+    margin-bottom: 0px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
+.logo{
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+img{
+    border-radius: 10px;
+}
+#logos{
+    width: 250px;
+    height: 250px;
+}
+#persona{
+    border: solid 4px black;
+}
+#carros{
+    margin: 20px auto;
+    width: 250px;
+    height: 250px;
+    border: solid 4px black;
+}
+p{
+    margin: 10px;
+    font-size: 22px;
+}
+.card{
+    width: 320px;
+    height: max-content;
+    background-color: #373744;
+    color: #c0c0c0;
+    border: solid 4px black;
+    padding: 25px;
+    margin: 40px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+}
+.post{
+    width: 320px;
+    height: max-content;
+    background-color: #373744;
+    color: #c0c0c0;
+    border: solid 4px black;
+    padding: 25px;
+    margin: 40px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+}
+.perfil{
+    width: 320px;
+    height: max-content;
+    background-color: #373744;
+    color: #c0c0c0;
+    border: solid 4px black;
+    padding: 25px;
+    margin: 40px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+}
+.carro{
+    width: max-content;
+    height: max-content;
+    background-color: #373744;
+    color: #c0c0c0;
+    border: solid 4px black;
+    padding: 25px;
+    margin: 40px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+}
+a{
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: gtav;
+    text-decoration: none;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+a:hover{
+    color: rgb(201, 201, 201);
+    font-size: 51px;
+}
