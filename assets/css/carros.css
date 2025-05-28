@@ -21,77 +21,10 @@ h1{
     -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: black;
 }
-.logo{
-    width: 250px;
-    height: 250px;
-    align-items: center;
-    margin: auto;
-    margin-top: 0px;
-    margin-bottom: 50px;
+h2{
+    font-size: 30px;
 }
-img{
-    border-radius: 10px;
-}
-#logos{
-    width: 250px;
-    height: 250px;
-}
-#persona{
-    border: solid 4px black;
-}
-#carros{
-    margin: 20px auto;
-    width: 250px;
-    height: 250px;
-    border: solid 4px black;
-}
-p{
-    margin: 10px;
-    font-size: 22px;
-}
-.card{
-    width: 320px;
-    height: max-content;
-    background-color: #373744;
-    color: #c0c0c0;
-    border: solid 4px black;
-    padding: 25px;
-    margin: 40px auto;
-    text-align: center;
-    border-radius: 10px;
-    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
-    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
-    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
-}
-.post{
-    width: 320px;
-    height: max-content;
-    background-color: #373744;
-    color: #c0c0c0;
-    border: solid 4px black;
-    padding: 25px;
-    margin: 40px auto;
-    text-align: center;
-    border-radius: 10px;
-    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
-    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
-    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
-}
-.perfil{
-    width: 320px;
-    height: max-content;
-    background-color: #373744;
-    color: #c0c0c0;
-    border: solid 4px black;
-    padding: 25px;
-    margin: 40px auto;
-    text-align: center;
-    border-radius: 10px;
-    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
-    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
-    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
-}
-.carro{
+.carro1{
     width: max-content;
     height: max-content;
     background-color: #373744;
@@ -104,6 +37,67 @@ p{
     box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
     -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
     -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+}
+.carro2{
+    width: max-content;
+    height: max-content;
+    background-color: #373744;
+    color: #c0c0c0;
+    border: solid 4px black;
+    padding: 25px;
+    margin: 40px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+}
+.carro3{
+    width: max-content;
+    height: max-content;
+    background-color: #373744;
+    color: #c0c0c0;
+    border: solid 4px black;
+    padding: 25px;
+    margin: 40px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+}
+.carro4{
+    width: max-content;
+    height: max-content;
+    background-color: #373744;
+    color: #c0c0c0;
+    border: solid 4px black;
+    padding: 25px;
+    margin: 40px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+}
+.carro5{
+    width: max-content;
+    height: max-content;
+    background-color: #373744;
+    color: #c0c0c0;
+    border: solid 4px black;
+    padding: 25px;
+    margin: 40px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -webkit-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+    -moz-box-shadow: 0px 0px 44px 7px rgba(0,0,0,0.84);
+}
+img{
+    width: 600px;
+    border-radius: 10px;
+    border: solid 4px black;
 }
 a{
     display: block;
@@ -120,7 +114,7 @@ a:hover{
     color: rgb(201, 201, 201);
     font-size: 51px;
 }
-.carros{
+.voltar{
     background-color: #373744;
     width: 350px;
     height: 70px;
@@ -130,7 +124,7 @@ a:hover{
     border: solid 4px black;
     text-align: center;
 }
-.carros:hover{
+.voltar:hover{
     background-color: #2f2f36;
     color: rgb(24, 24, 24);
     width: 360px;
